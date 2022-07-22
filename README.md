@@ -1,5 +1,5 @@
 # TinySteps
-  This mobile application is for parent monitoring and recording of their baby nursing activities. It will also served as their guide in parenting their babies and toddlers specially to the first time perent. It provides additonal information and saves the data for tracking that can help them in some kind of situations.
+  This mobile application is for parent monitoring and recording of their baby nursing activities. It will also served as their guide in parenting their babies and toddlers specially to the first time parent. It provides additonal information and saves the data for tracking that can help them in some kind of situations.
 # Images
 
 ![2](https://user-images.githubusercontent.com/109802641/180451316-b75eb98f-2a49-446c-a66a-cc4981dbd6ac.jpg)<br />
@@ -8,7 +8,7 @@
 
 
 # Demo Video
-https://youtu.be/XChIK_LDot0
+https://youtu.be/3hCrnwFRlv4
 # Developer
 * Mendoza, Ma. Julie Anne
 * Mesias, Joshua
